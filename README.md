@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi+<+developers/+>!👋;Welcome+to+my+profile!;I+am+a+Full+Stack+Developer+💻👾👨‍💻&font=Fira%20Code&center=true&width=450&height=100&duration=2500&pause=1000"     alt="Example Usage - README Typing SVG">
 </p>
 <h3 align="left">🌟 Crafting Digital Symphony with Python, .NET Core, Angular, and React: Turning Code into Art 🎨🚀</h3>
-<img align="right" src="Icons/icon-crazy.gif" alt="typing gif" width="400" height="200"/>
+<img align="right" src="Icons/icon-crazy.gif" alt="typing gif" width="300" height="150"/>
 - 🔭 I’m currently working on **Microsoft Sustainability**
 
 - 🌱 I’m currently learning **Django**
