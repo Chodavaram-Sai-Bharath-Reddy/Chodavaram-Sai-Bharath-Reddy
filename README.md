@@ -3,6 +3,7 @@
 </p>
 <h3 align="left">🌟 Crafting Digital Symphony with Python, .NET Core, Angular, and React: Turning Code into Art 🎨🚀</h3>
 <img align="right" src="Icons/icon-crazy.gif" alt="typing gif" width="300" height="150"/>
+
 - 🔭 I’m currently working on **Microsoft Sustainability**
 
 - 🌱 I’m currently learning **Django**
