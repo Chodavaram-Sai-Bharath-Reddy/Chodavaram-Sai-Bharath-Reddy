@@ -135,7 +135,3 @@
     <p>Credential ID : <b>79217664</b></p>
     <p><a href="https://skillsoft.digitalbadges.skillsoft.com/4e76e346-377a-47bf-b25a-fe7fc90a780a"><b>Show Credential</b></a></p>
 </details>
-    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chodavaram-sai-bharath-reddy&show_icons=true&locale=en" alt="chodavaram-sai-bharath-reddy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chodavaram-sai-bharath-reddy&" alt="chodavaram-sai-bharath-reddy" /></p>
