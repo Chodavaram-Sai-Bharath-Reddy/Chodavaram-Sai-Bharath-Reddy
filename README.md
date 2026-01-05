@@ -40,6 +40,12 @@
 ## Licenses & certifications : 
 <img align="right" src="Icons/icon-crazy.gif" alt="typing gif" width="450" height="220"/>
 <details>
+    <summary><img align="center" src="Icons/icon-harvard.png" alt="microfost" width="40" height="40" /> <b>CS50's Web Programming with Python and JavaScript</b></summary>
+    <p>Issued by: <b>Harvard University</b></p>
+    <p>Credential ID : <b>b2dad78c-030f-4b7e-a2a2-8947d4f9cfd9</b></p>
+    <p><a href="https://certificates.cs50.io/b2dad78c-030f-4b7e-a2a2-8947d4f9cfd9.pdf?size=letter"><b>Show Credential</b></a></p>
+</details>
+<details>
     <summary><img align="center" src="Icons/icon-microsoft.png" alt="microfost" width="40" height="40" /> <b>Microsoft Certified: Azure Fundamentals</b></summary>
     <p>Issued by: <b>Microsoft</b></p>
     <p>Credential ID : <b>I522-7659</b></p>
