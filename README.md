@@ -1,5 +1,6 @@
 <p>
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello+<+developers/+>!    👋;Welcome+to+my+profile!;I+am+a+Full+Stack+Developer+💻👾&font=Orbitron&weight=800&size=45&color=6A5ACD&background=E6E6FA&center=true&width=980&height=200&duration=2500&pause=1000" alt="README Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" />
 </p>
 
 <h3 align="left">🌟 Crafting Digital Symphony with Python, .NET Core, Angular, and React: Turning Code into Art 🎨🚀</h3>
